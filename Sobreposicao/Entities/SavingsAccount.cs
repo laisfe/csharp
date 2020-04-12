@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Sobreposicao.Entities
 {
-    class SavingsAccount : Account
+    //sealed não permite que seja criada uma subclasse a partir da classe SavingsAccount
+    sealed class SavingsAccount : Account
     {
         public double InterestRate { get; set; }
 
@@ -23,7 +24,8 @@ namespace Sobreposicao.Entities
             Balance += Balance * InterestRate;
         }
 
-        public override void Withdraw(double amount)
+        //indica que esse método não pode ser sobrescrito novamente em outra subclasse
+        public sealed override void Withdraw(double amount)
         {
             base.Withdraw(amount);
             Balance -= 2.0;

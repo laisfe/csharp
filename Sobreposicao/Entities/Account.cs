@@ -21,6 +21,7 @@ namespace Sobreposicao.Entities
             Balance = balance;
         }
 
+        //o virtual indica que o metodo pode ser sobreposto nas subclasses
         public virtual void Withdraw(double amount)
         {
             Balance -= amount + 5.0;
