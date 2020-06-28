@@ -1,0 +1,13 @@
+C:\Users\Lais\source\repos\generics-2\generics-2\obj\Debug\netcoreapp3.1\generics-2.csprojAssemblyReference.cache
+C:\Users\Lais\source\repos\generics-2\generics-2\obj\Debug\netcoreapp3.1\generics-2.csproj.CoreCompileInputs.cache
+C:\Users\Lais\source\repos\generics-2\generics-2\obj\Debug\netcoreapp3.1\generics-2.AssemblyInfoInputs.cache
+C:\Users\Lais\source\repos\generics-2\generics-2\obj\Debug\netcoreapp3.1\generics-2.AssemblyInfo.cs
+C:\Users\Lais\source\repos\generics-2\generics-2\bin\Debug\netcoreapp3.1\generics-2.exe
+C:\Users\Lais\source\repos\generics-2\generics-2\bin\Debug\netcoreapp3.1\generics-2.deps.json
+C:\Users\Lais\source\repos\generics-2\generics-2\bin\Debug\netcoreapp3.1\generics-2.runtimeconfig.json
+C:\Users\Lais\source\repos\generics-2\generics-2\bin\Debug\netcoreapp3.1\generics-2.runtimeconfig.dev.json
+C:\Users\Lais\source\repos\generics-2\generics-2\bin\Debug\netcoreapp3.1\generics-2.dll
+C:\Users\Lais\source\repos\generics-2\generics-2\bin\Debug\netcoreapp3.1\generics-2.pdb
+C:\Users\Lais\source\repos\generics-2\generics-2\obj\Debug\netcoreapp3.1\generics-2.dll
+C:\Users\Lais\source\repos\generics-2\generics-2\obj\Debug\netcoreapp3.1\generics-2.pdb
+C:\Users\Lais\source\repos\generics-2\generics-2\obj\Debug\netcoreapp3.1\generics-2.genruntimeconfig.cache

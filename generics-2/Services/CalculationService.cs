@@ -6,6 +6,7 @@ namespace generics_2.Services
 {
     class CalculationService
     {
+        //Adicionamos o IComparable que permite a comparação de objetos
         public T Max<T>(List<T> list) where T : IComparable
         {
             if (list.Count == 0)
