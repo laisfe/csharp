@@ -1,0 +1,13 @@
+C:\Users\Lais\source\repos\HashCode_Equals\HashCode_Equals\bin\Debug\netcoreapp3.1\HashCode_Equals.exe
+C:\Users\Lais\source\repos\HashCode_Equals\HashCode_Equals\bin\Debug\netcoreapp3.1\HashCode_Equals.deps.json
+C:\Users\Lais\source\repos\HashCode_Equals\HashCode_Equals\bin\Debug\netcoreapp3.1\HashCode_Equals.runtimeconfig.json
+C:\Users\Lais\source\repos\HashCode_Equals\HashCode_Equals\bin\Debug\netcoreapp3.1\HashCode_Equals.runtimeconfig.dev.json
+C:\Users\Lais\source\repos\HashCode_Equals\HashCode_Equals\bin\Debug\netcoreapp3.1\HashCode_Equals.dll
+C:\Users\Lais\source\repos\HashCode_Equals\HashCode_Equals\bin\Debug\netcoreapp3.1\HashCode_Equals.pdb
+C:\Users\Lais\source\repos\HashCode_Equals\HashCode_Equals\obj\Debug\netcoreapp3.1\HashCode_Equals.csprojAssemblyReference.cache
+C:\Users\Lais\source\repos\HashCode_Equals\HashCode_Equals\obj\Debug\netcoreapp3.1\HashCode_Equals.csproj.CoreCompileInputs.cache
+C:\Users\Lais\source\repos\HashCode_Equals\HashCode_Equals\obj\Debug\netcoreapp3.1\HashCode_Equals.AssemblyInfoInputs.cache
+C:\Users\Lais\source\repos\HashCode_Equals\HashCode_Equals\obj\Debug\netcoreapp3.1\HashCode_Equals.AssemblyInfo.cs
+C:\Users\Lais\source\repos\HashCode_Equals\HashCode_Equals\obj\Debug\netcoreapp3.1\HashCode_Equals.dll
+C:\Users\Lais\source\repos\HashCode_Equals\HashCode_Equals\obj\Debug\netcoreapp3.1\HashCode_Equals.pdb
+C:\Users\Lais\source\repos\HashCode_Equals\HashCode_Equals\obj\Debug\netcoreapp3.1\HashCode_Equals.genruntimeconfig.cache

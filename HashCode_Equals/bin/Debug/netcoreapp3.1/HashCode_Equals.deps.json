@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HashCode_Equals/1.0.0": {
+        "runtime": {
+          "HashCode_Equals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HashCode_Equals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
