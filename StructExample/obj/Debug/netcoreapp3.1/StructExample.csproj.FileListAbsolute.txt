@@ -1,0 +1,13 @@
+C:\Users\Lais\source\repos\StructExample\StructExample\bin\Debug\netcoreapp3.1\StructExample.exe
+C:\Users\Lais\source\repos\StructExample\StructExample\bin\Debug\netcoreapp3.1\StructExample.deps.json
+C:\Users\Lais\source\repos\StructExample\StructExample\bin\Debug\netcoreapp3.1\StructExample.runtimeconfig.json
+C:\Users\Lais\source\repos\StructExample\StructExample\bin\Debug\netcoreapp3.1\StructExample.runtimeconfig.dev.json
+C:\Users\Lais\source\repos\StructExample\StructExample\bin\Debug\netcoreapp3.1\StructExample.dll
+C:\Users\Lais\source\repos\StructExample\StructExample\bin\Debug\netcoreapp3.1\StructExample.pdb
+C:\Users\Lais\source\repos\StructExample\StructExample\obj\Debug\netcoreapp3.1\StructExample.csprojAssemblyReference.cache
+C:\Users\Lais\source\repos\StructExample\StructExample\obj\Debug\netcoreapp3.1\StructExample.csproj.CoreCompileInputs.cache
+C:\Users\Lais\source\repos\StructExample\StructExample\obj\Debug\netcoreapp3.1\StructExample.AssemblyInfoInputs.cache
+C:\Users\Lais\source\repos\StructExample\StructExample\obj\Debug\netcoreapp3.1\StructExample.AssemblyInfo.cs
+C:\Users\Lais\source\repos\StructExample\StructExample\obj\Debug\netcoreapp3.1\StructExample.dll
+C:\Users\Lais\source\repos\StructExample\StructExample\obj\Debug\netcoreapp3.1\StructExample.pdb
+C:\Users\Lais\source\repos\StructExample\StructExample\obj\Debug\netcoreapp3.1\StructExample.genruntimeconfig.cache
