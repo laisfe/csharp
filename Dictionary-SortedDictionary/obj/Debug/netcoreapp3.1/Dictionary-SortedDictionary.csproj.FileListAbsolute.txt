@@ -1,0 +1,12 @@
+C:\Users\Lais\source\repos\Dictionary-SortedDictionary\Dictionary-SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary-SortedDictionary.exe
+C:\Users\Lais\source\repos\Dictionary-SortedDictionary\Dictionary-SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary-SortedDictionary.deps.json
+C:\Users\Lais\source\repos\Dictionary-SortedDictionary\Dictionary-SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary-SortedDictionary.runtimeconfig.json
+C:\Users\Lais\source\repos\Dictionary-SortedDictionary\Dictionary-SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary-SortedDictionary.runtimeconfig.dev.json
+C:\Users\Lais\source\repos\Dictionary-SortedDictionary\Dictionary-SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary-SortedDictionary.dll
+C:\Users\Lais\source\repos\Dictionary-SortedDictionary\Dictionary-SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary-SortedDictionary.pdb
+C:\Users\Lais\source\repos\Dictionary-SortedDictionary\Dictionary-SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary-SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Lais\source\repos\Dictionary-SortedDictionary\Dictionary-SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary-SortedDictionary.AssemblyInfoInputs.cache
+C:\Users\Lais\source\repos\Dictionary-SortedDictionary\Dictionary-SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary-SortedDictionary.AssemblyInfo.cs
+C:\Users\Lais\source\repos\Dictionary-SortedDictionary\Dictionary-SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary-SortedDictionary.dll
+C:\Users\Lais\source\repos\Dictionary-SortedDictionary\Dictionary-SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary-SortedDictionary.pdb
+C:\Users\Lais\source\repos\Dictionary-SortedDictionary\Dictionary-SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary-SortedDictionary.genruntimeconfig.cache
